@@ -1,7 +1,7 @@
 # Multi-threaded Message Queue
 
 ## Overview
-This project implements a simplified **multi-threaded message queue system** in Java, inspired by real-world message brokers like **Kafka** or **RabbitMQ**.  
+This project implements a simple **multi-threaded message queue system** in Java, inspired by real-world message brokers like **Kafka** or **RabbitMQ**.  
 The system demonstrates key operating system and concurrency concepts: **threads**, **producer–consumer synchronization**, and **thread-safe data structures**.
 
 ## Features
